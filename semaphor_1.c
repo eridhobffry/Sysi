@@ -15,7 +15,7 @@
 /*
  
  --------------------------      Definieren die einzelne shm_ und sem_ Methode      -----------------------
- 
+ -
  */
 
 /* 
